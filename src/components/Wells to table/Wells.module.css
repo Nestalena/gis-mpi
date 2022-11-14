@@ -1,0 +1,8 @@
+.wells {
+    grid-area: c;
+    padding: 50px 30px 0 40px;
+}
+
+.wells tr:nth-child(even) {background-color: #f0f4f5
+}
+

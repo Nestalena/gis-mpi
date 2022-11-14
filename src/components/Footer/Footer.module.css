@@ -1,0 +1,14 @@
+.footer {
+    grid-area: a;
+    background-color: #041e21;
+    height: 50px;
+    width: 500px;
+
+}
+
+.text {
+    padding: 15px;
+    color: #fdfcfc;
+    text-align: center;
+
+}

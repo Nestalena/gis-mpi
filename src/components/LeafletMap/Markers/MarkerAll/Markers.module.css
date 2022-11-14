@@ -1,0 +1,22 @@
+.tableWells {
+    border-collapse: collapse;
+    color: #535d7e;
+    padding: 2px;
+
+}
+
+.tableWells tr:nth-child(even) {background-color: #f0f4f5}
+
+.buttonWells {
+    margin: 5px 0 0 235px;
+    padding: 10px;
+
+    background-color: #ffffff;
+    color: #444c65;
+
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 2px;
+}
